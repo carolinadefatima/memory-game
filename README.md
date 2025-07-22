@@ -28,7 +28,7 @@ Este projeto é um **jogo da memória** desenvolvido em **HTML**, **CSS** e **Ja
 
 ## Preview
 
-*(Adicione um print ou gif aqui, se quiser!)*
+![Exemplo de GIF animado](/src/gif/gif.gif)
 
 ## Base do projeto
 
@@ -39,4 +39,4 @@ Este projeto foi baseado em:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/carolinadefatima/seu-repo.git
